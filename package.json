@@ -1,0 +1,23 @@
+{
+  "name": "eaivisionprototype",
+  "version": "1.0.0",
+  "description": "static pages to learn node deployment along with heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "html5",
+    "css3",
+    "git",
+    "heroku"
+  ],
+  "author": "Vishwas B Ananad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
